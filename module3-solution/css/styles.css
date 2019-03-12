@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    font-size: 1.75em;
+    font-style: bold;
+}
